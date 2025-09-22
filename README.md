@@ -1,3 +1,3 @@
 # random-code
 
-<p>collection of random code i've made :)</p>
+<p>Small pieces of code I've made that may come useful</p>
